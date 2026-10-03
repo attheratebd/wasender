@@ -11,6 +11,7 @@
     "passwordPlaceholder": "비밀번호를 입력하세요",
     "signingIn": "로그인 중...",
     "signIn": "로그인",
+    "connectionError": "로그인 서비스에 연결할 수 없습니다. 연결을 확인하고 다시 시도하세요.",
     "noAccount": "계정이 없으신가요?",
     "createAccount": "계정 만들기",
     "linkExpired": "링크가 만료되었습니다. 비밀번호를 재설정하려면 “비밀번호를 잊으셨나요?”에서 새 링크를 요청하세요. 이메일 인증 중이었다면 다시 가입해 주세요.",

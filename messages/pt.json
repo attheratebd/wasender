@@ -11,6 +11,7 @@
     "passwordPlaceholder": "Digite sua senha",
     "signingIn": "Entrando...",
     "signIn": "Entrar",
+    "connectionError": "Não foi possível conectar ao serviço de login. Verifique sua conexão e tente novamente.",
     "noAccount": "Não tem uma conta?",
     "createAccount": "Criar conta",
     "linkExpired": "Esse link expirou. Para redefinir a senha, use “Esqueceu a senha?” para pedir um novo; se estava confirmando seu e-mail, cadastre-se novamente.",

@@ -11,6 +11,7 @@
     "passwordPlaceholder": "Ingresa tu contraseña",
     "signingIn": "Iniciando sesión...",
     "signIn": "Iniciar sesión",
+    "connectionError": "No se pudo conectar con el servicio de inicio de sesión. Comprueba tu conexión e inténtalo de nuevo.",
     "noAccount": "¿No tienes una cuenta?",
     "createAccount": "Crear cuenta",
     "linkExpired": "Ese enlace expiró. Para restablecer la contraseña, usa “¿Olvidaste tu contraseña?” y pide uno nuevo; si estabas confirmando tu correo, regístrate de nuevo.",
